@@ -1,15 +1,13 @@
-n8n-heroku
+# n8n-heroku
 
-n8n - Free and open fair-code licensed node based Workflow Automation Tool.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rjfahad/n8n-heroku.git)
 
-This is a Heroku
--focused container implementation of n8n
-.
+## n8n - Free and open fair-code licensed node based Workflow Automation Tool.
 
-Use the Deploy to Heroku button above to launch n8n on Heroku. When deploying, make sure to check all configuration options and adjust them to your needs. It's especially important to set N8N_ENCRYPTION_KEY to a random secure value.
+This is a [Heroku](https://heroku.com/)-focused container implementation of [n8n](https://n8n.io/).
 
-Refer to the Heroku n8n tutorial
- for more information.
+Use the **Deploy to Heroku** button above to launch n8n on Heroku. When deploying, make sure to check all configuration options and adjust them to your needs. It's especially important to set `N8N_ENCRYPTION_KEY` to a random secure value. 
 
-If you have questions after trying the tutorials, check out the forums
-.
+Refer to the [Heroku n8n tutorial](https://docs.n8n.io/hosting/server-setups/heroku/) for more information.
+
+If you have questions after trying the tutorials, check out the [forums](https://community.n8n.io/).
